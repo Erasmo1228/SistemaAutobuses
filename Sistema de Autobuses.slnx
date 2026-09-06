@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Sistema de Autobuses/SistemaAutoBuses.Entidades.csproj" />
+  <Project Path="SistemaAutobuses.CapaDatos/SistemaAutobuses.CapaDatos.csproj" />
+  <Project Path="SistemaAutobuses.CapaNegocio/SistemaAutobuses.CapaNegocio.csproj" Id="ba033a9b-bf14-4d5d-a11c-5fb778a81561" />
+  <Project Path="SistemaAutobuses.CapaPresentacion/SistemaAutobuses.CapaPresentacion.csproj" Id="e3ece33e-ab54-41f4-a81d-dc04cc2c86d6" />
+</Solution>

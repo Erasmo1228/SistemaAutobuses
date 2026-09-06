@@ -1,0 +1,17 @@
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\bin\Debug\net10.0\SistemaAutobuses.CapaNegocio.deps.json
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\bin\Debug\net10.0\SistemaAutobuses.CapaNegocio.dll
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\bin\Debug\net10.0\SistemaAutobuses.CapaNegocio.pdb
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\bin\Debug\net10.0\SistemaAutobuses.CapaDatos.dll
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\bin\Debug\net10.0\SistemaAutoBuses.Entidades.dll
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\bin\Debug\net10.0\SistemaAutoBuses.Entidades.pdb
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\bin\Debug\net10.0\SistemaAutobuses.CapaDatos.pdb
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\SistemaAutobuses.CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\SistemaAutobuses.CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\SistemaAutobuses.CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\SistemaAutobuses.CapaNegocio.AssemblyInfo.cs
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\SistemaAutobuses.CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\SistemaA.99CFC1B7.Up2Date
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\SistemaAutobuses.CapaNegocio.dll
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\refint\SistemaAutobuses.CapaNegocio.dll
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\SistemaAutobuses.CapaNegocio.pdb
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\SistemaAutobuses.CapaNegocio\obj\Debug\net10.0\ref\SistemaAutobuses.CapaNegocio.dll

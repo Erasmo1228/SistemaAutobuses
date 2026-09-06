@@ -1,0 +1,11 @@
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\bin\Debug\net10.0\SistemaAutoBuses.Entidades.deps.json
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\bin\Debug\net10.0\SistemaAutoBuses.Entidades.dll
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\bin\Debug\net10.0\SistemaAutoBuses.Entidades.pdb
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\obj\Debug\net10.0\SistemaAutoBuses.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\obj\Debug\net10.0\SistemaAutoBuses.Entidades.AssemblyInfoInputs.cache
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\obj\Debug\net10.0\SistemaAutoBuses.Entidades.AssemblyInfo.cs
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\obj\Debug\net10.0\SistemaAutoBuses.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\obj\Debug\net10.0\SistemaAutoBuses.Entidades.dll
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\obj\Debug\net10.0\refint\SistemaAutoBuses.Entidades.dll
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\obj\Debug\net10.0\SistemaAutoBuses.Entidades.pdb
+C:\Users\vboxuser\source\repos\Sistema de Autobuses\Sistema de Autobuses\obj\Debug\net10.0\ref\SistemaAutoBuses.Entidades.dll
